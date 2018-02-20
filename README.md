@@ -1,11 +1,10 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
+# bdd-rails5
+This is a repo for testing BDD with Rails 5 : Alpha blog
 
 * Ruby version
+2.5.0
 
 * System dependencies
 
