@@ -2,7 +2,9 @@
 
 # This controller allow to add an see articles
 class ArticlesController < ApplicationController
-  def index; end
+  def index
+    @articles = Article.all
+  end
 
   def new
     @article = Article.new
